@@ -17,6 +17,8 @@
 - - Computer Science
 - Ayan
 - - Health Science
+- Hafsa
+- - Software Engineer 
 
 ## What Task Must Be Done 
 - [ ] Develop Audio For Most Common Somali Words
