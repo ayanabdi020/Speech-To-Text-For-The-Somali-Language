@@ -218,107 +218,107 @@ abaadid a baa did
 abaadin a baa din 
 abaadsii a baad sii 
 abaadsiin a baad siin 
-abaahi a b aa h i 
-abaahin a b aa h i n 
-abaahiqab a b aa h i q a b 
-abaahis a b aa h i s 
-abaahiyid a b aa h i y i d 
-abaaji a b aa j i 
-abaajiyid a b aa j i y i d 
-abaal a b aa l 
-abaalceli a b aa l c e l i 
-abaalcelin a b aa l c e l i n 
-abaalcelis a b aa l c e l i s 
-abaaldaran a b aa l d a r a n 
-abaaldarnaan a b aa l d a r n aa n 
-abaaldarnaansho a b aa l d a r n aa n sh o 
-abaaldarro a b aa l d a r r o 
-abaaldhac a b aa l dh a c 
-abaaldhicid a b aa l dh i c i d 
-abaaldooris a b aa l d oo r i s 
-abaalgud a b aa l g u d 
-abaalgudid a b aa l g u d i d 
-abaalhay a b aa l h a y 
-abaalhayn a b aa l h a y n 
-abaali a b aa l i 
-abaalmari a b aa l m a r i 
-abaalmarin a b aa l m a r i n 
-abaalmaris a b aa l m a r i s 
-abaar a b aa r 
-abaarayn a b aa r a y n 
-abaaraysad a b aa r a y s a d 
-abaaraysan a b aa r a y s a n 
-abaaraysasho a b aa r a y s a sh o 
-abaaraysi a b aa r a y s i 
-abaaraysii a b aa r a y s ii 
-abaaraysiin a b aa r a y s ii n 
-abaaraysnaan a b aa r a y s n aa n 
-abaaraysnaansho a b aa r a y s n aa n sh o 
-abaarayso a b aa r a y s o 
-abaaree a b aa r ee 
-abaareysad a b aa r e y s a d 
-abaarikeentay a b aa r i k ee n t a y 
-abaaroobid a b aa r oo b i d 
-abaarow a b aa r o w 
-abaarsad a b aa r s a d 
-abaarsasho a b aa r s a sh o 
-abaarso a b aa r s o 
-abaaseere a b aa s ee r e 
-abab a b a b 
-ababi a b a b i 
-ababid a b a b i d 
-ababin a b a b i n 
-ababis a b a b i s 
-abad a b a d 
-abaddar a b a d d a r 
-abaddarnimo a b a d d a r n i m o 
-abakaar a b a k aa r 
-abakaarnimo a b a k aa r n i m o 
-abaqaal a b a q aa l 
-abaqaalid a b a q aa l i d 
-abasax a b a s a x 
-abasaxan a b a s a x a n 
-abasaxi a b a s a x i 
-abasaxnaan a b a s a x n aa n 
-abasaxnaansho a b a s a x n aa n sh o 
-abasaxsan a b a s a x s a n 
-abasaxsanaan a b a s a x s a n aa n 
-abasaxsanaansho a b a s a x s a n aa n sh o 
-abashuqle a b a sh u q l e 
-abashuqlee a b a sh u q l ee 
-abashuqleyn a b a sh u q l e y n 
-abasixid a b a s i x i d 
-abataqan a b a t a q a n 
-abaydimi a b a y d i m i 
-abaydimin a b a y d i m i n 
-abaydin a b a y d i n 
-abbaan a b b aa n 
-abbaanduul a b b aa n d uu l 
-abbaanduule a b b aa n d uu l e 
-abbaannimo a b b aa n n i m o 
-abbaansasho a b b aa n s a sh o 
-abbaansi a b b aa n s i 
-abbaanso a b b aa n s o 
-abbaanwarre a b b aa n w a r r e 
-abbaar a b b aa r 
-abbaaran a b b aa r a n 
-abbaare a b b aa r e 
-abbaarid a b b aa r i d 
-abbaarmid a b b aa r m i d 
-abbaarnaan a b b aa r n aa n 
-abbaarnaansho a b b aa r n aa n sh o 
-abbaarqaadasho a b b aa r q aa d a sh o 
-abbaarqaado a b b aa r q aa d o 
-abbaarsii a b b aa r s ii 
-abbaarsiin a b b aa r s ii n 
-abbaato a b b aa t o 
-abbaay a b b aa y 
-abbaaye a b b aa y e 
-abbaayguddoy a b b aa y g u d d o y 
-abbaayo a b b aa y o 
-abbaseere a b b a s ee r e 
-abboow a b b oo w 
-abboowe a b b oo w e 
+abaahi a baa hi 
+abaahin a baa hin 
+abaahiqab a baa hi qab 
+abaahis a baa his 
+abaahiyid a baa hi yid 
+abaaji a baa ji 
+abaajiyid a baa ji yid 
+abaal a baal 
+abaalceli a baal cel i 
+abaalcelin a baal cel in 
+abaalcelis a baal cel is 
+abaaldaran a baal da ran 
+abaaldarnaan a baal dar naan 
+abaaldarnaansho a baal dar naan sho 
+abaaldarro a baal da rro 
+abaaldhac a baal dhac 
+abaaldhicid a baal dhic id 
+abaaldooris a baal door is 
+abaalgud a baal gud 
+abaalgudid a baal gu did 
+abaalhay a baal hay 
+abaalhayn a baal ha yn 
+abaali a baal i 
+abaalmari a baal ma ri 
+abaalmarin a baal ma rin 
+abaalmaris a baal ma ris 
+abaar a baar 
+abaarayn a baar ayn 
+abaaraysad a baar ay sad 
+abaaraysan a baar ay san 
+abaaraysasho a baar ay sa sho 
+abaaraysi a baar ay si 
+abaaraysii a baar ay sii 
+abaaraysiin a baar ay siin 
+abaaraysnaan a baar ays naan 
+abaaraysnaansho a baar ays naan sho 
+abaarayso a baar ays o 
+abaaree a baar ee 
+abaareysad a baar ey sad 
+abaarikeentay a baar i keen tay 
+abaaroobid a baar oo bid 
+abaarow a baar ow 
+abaarsad a baar sad 
+abaarsasho a baar sa sho 
+abaarso a baar so 
+abaaseere a baa see re 
+abab a bab 
+ababi a ba bi 
+ababid a ba b id 
+ababin a ba bin 
+ababis a ba bis 
+abad a bad 
+abaddar a bad dar 
+abaddarnimo a bad dar ni mo 
+abakaar a ba kaar 
+abakaarnimo a ba kaar ni mo 
+abaqaal a ba qaal 
+abaqaalid a ba qaal id 
+abasax a ba sax 
+abasaxan a ba sax an 
+abasaxi a ba sa xi 
+abasaxnaan a ba sax naan 
+abasaxnaansho a ba sax naan sho 
+abasaxsan a ba sax san 
+abasaxsanaan a ba sax sa naan 
+abasaxsanaansho a ba sax sa naan sho 
+abashuqle a ba shu qle 
+abashuqlee a ba shu qle e 
+abashuqleyn a ba shu qle yn 
+abasixid a ba si xid 
+abataqan a ba ta qan 
+abaydimi a bay di mi 
+abaydimin a bay di min 
+abaydin a bay din 
+abbaan a bbaan 
+abbaanduul a bbaan duul 
+abbaanduule a bbaan duul e 
+abbaannimo a bbaan ni mo 
+abbaansasho a bbaan sa sho 
+abbaansi a bbaan si 
+abbaanso a bbaan so 
+abbaanwarre a bbaan wa rre 
+abbaar a bbaar 
+abbaaran a bbaar an 
+abbaare a bbaar e 
+abbaarid a bbaar id 
+abbaarmid a bbaar mid 
+abbaarnaan a bbaar naan 
+abbaarnaansho a bbaar naan sho 
+abbaarqaadasho a bbaar qaa da sho 
+abbaarqaado a bbaar qaa do 
+abbaarsii a bbaar sii 
+abbaarsiin a bbaar siin 
+abbaato a bbaat o 
+abbaay a bbaay 
+abbaaye a bbaay e 
+abbaayguddoy a bbaay gu ddoy 
+abbaayo a bbaa yo 
+abbaseere a bba seer e 
+abboow a bboow 
+abboowe a bboow e 
 abbuul a b b uu l 
 abdo a b d o 
 abeer a b ee r 
