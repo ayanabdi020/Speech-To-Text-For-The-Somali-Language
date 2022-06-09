@@ -319,107 +319,107 @@ abbaayo a bbaa yo
 abbaseere a bba seer e 
 abboow a bboow 
 abboowe a bboow e 
-abbuul a b b uu l 
-abdo a b d o 
-abeer a b ee r 
-abeesabbadeed a b ee s a b b a d ee d 
-abeesajilfaaley a b ee s a j i l f aa l e y 
-abeesalugaley a b ee s a l u g a l e y 
-abeesaxambaar a b ee s a x a m b aa r 
-abeeso a b ee s o 
-abeesojufaaley a b ee s o j u f aa l e y 
-abeesow a b ee s o w 
-abguri a b g u r i 
-abhi a b h i 
-abhin a b h i n 
-abhis a b h i s 
-abid a b i d 
-abiid a b ii d 
-abitey a b i t e y 
-abjac a b j a c 
-abjacnimo a b j a c n i m o 
-abjad a b j a d 
-abjed a b j e d 
-abkow a b k o w 
-abkownimo a b k o w n i m o 
-abla'ablayn a b l a ' a b l a y n 
-ablaawe a b l aa w e 
-abley a b l e y 
-abnaq a b n a q 
-abnaqid a b n a q i d 
-ab'ogaa a b ' o g aa 
-aboobid a b oo b i d 
-aboodi a b oo d i 
-aboor a b oo r 
-aboornimo a b oo r n i m o 
-abootannimo a b oo t a n n i m o 
-abooto a b oo t o 
-abooto-idabbadis a b oo t o i d a b b a d i s 
-ab'orijinis a b ' o r i j i n i s 
-abqaad a b q aa d 
-abqo a b q o 
-abraar a b r aa r 
-abraarid a b r aa r i d 
-abraarsii a b r aa r s ii 
-abraarsiin a b r aa r s ii n 
-abraarsiis a b r aa r s ii s 
-abriil a b r ii l 
-abriile a b r ii l e 
-abris a b r i s 
-absaxan a b s a x a n 
-abshir a b sh i r 
-absiisa a b s ii s a 
-abti a b t i 
-abtibadbaadeed a b t i b a d b aa d ee d 
-abtinnimo a b t i n n i m o 
-abtiri a b t i r i 
-abtirin a b t i r i n 
-abtiris a b t i r i s 
-abtirsad a b t i r s a d 
-abtirsasho a b t i r s a sh o 
-abtirsi a b t i r s i 
-abtirsiimo a b t i r s ii m o 
-abtirsiino a b t i r s ii n o 
-abtirsiinyo a b t i r s ii n y o 
-abtirso a b t i r s o 
-abtisarow a b t i s a r o w 
-abtiyoobid a b t i y oo b i d 
-abtiyow a b t i y o w 
-abur a b u r 
-aburi a b u r i 
-aburin a b u r i n 
-aburshuqlayn a b u r sh u q l a y n 
-aburshuqle a b u r sh u q l e 
-aburshuqlee a b u r sh u q l ee 
-abuuddocan a b uu d d o c a n 
-abuuddoocan a b uu d d oo c a n 
-abuudiiq a b uu d ii q 
-abuullan a b uu l l a n 
-abuumaqas a b uu m a q a s 
-abuur a b uu r 
-abuuran a b uu r a n 
-abuurcas a b uu r c a s 
-abuure a b uu r e 
-abuurid a b uu r i d 
-abuuris a b uu r i s 
-abuuritaan a b uu r i t aa n 
-abuurmid a b uu r m i d 
-abuurnaan a b uu r n aa n 
-abuurnaansho a b uu r n aa n sh o 
-abuutufaax a b uu t u f aa x 
-abwaan a b w aa n 
-abwaanad a b w aa n a d 
-abwaannimo a b w aa n n i m o 
-abxad a b x a d 
-abyamid a b y a m i d 
-abyan a b y a n 
-abyanaha a b y a n a h a 
-abyane a b y a n e 
-abyin a b y i n 
-abyineed a b y i n ee d 
-abyin-jeexeed a b y i n j ee x ee d 
-abyood a b y oo d 
-abyoone a b y oo n e 
+abbuul ab buul
+abdo ab do
+abeer a beer 
+abeesabbadeed a bee sa bba deed 
+abeesajilfaaley a bee sa jil faa ley 
+abeesalugaley a bee sa lu ga ley 
+abeesaxambaar a bee sa xam baar 
+abeeso a bee so 
+abeesojufaaley a bee so ju faa ley 
+abeesow a bee sow 
+abguri ab gu ri 
+abhi ab hi 
+abhin ab hin 
+abhis ab his 
+abid a bid 
+abiid a biid 
+abitey a bi tey 
+abjac ab jac 
+abjacnimo ab jac ni mo 
+abjad ab jad 
+abjed ab jed 
+abkow ab kow 
+abkownimo ab kow ni mo 
+abla'ablayn ab la' ab layn 
+ablaawe ab laa we 
+abley ab ley 
+abnaq ab naq 
+abnaqid ab na qid 
+ab'ogaa a b' o gaa 
+aboobid a boo bid 
+aboodi a boo di 
+aboor a boor 
+aboornimo a boor ni mo 
+abootannimo a boo tan nimo 
+abooto a boo to 
+abooto-idabbadis a boo to idab ba dis 
+ab'orijinis a b' o riji nis 
+abqaad ab qaad 
+abqo ab qo 
+abraar ab raar 
+abraarid ab raa rid 
+abraarsii ab raar sii 
+abraarsiin ab raar siin 
+abraarsiis ab raar siis 
+abriil ab riil 
+abriile ab rii le 
+abris ab ris 
+absaxan ab sa xan 
+abshir ab shir 
+absiisa ab sii sa 
+abti ab ti 
+abtibadbaadeed ab ti bad baa deed 
+abtinnimo ab tin ni mo 
+abtiri ab ti ri 
+abtirin ab ti rin 
+abtiris ab ti ris 
+abtirsad ab tir sad 
+abtirsasho ab tir sa sho 
+abtirsi ab tir si 
+abtirsiimo ab tir sii mo 
+abtirsiino ab tir sii no 
+abtirsiinyo ab tir siin yo 
+abtirso ab tir so 
+abtisarow ab ti sa row 
+abtiyoobid ab ti yoo bid 
+abtiyow ab ti yow 
+abur a bur 
+aburi a bu ri 
+aburin a bu rin 
+aburshuqlayn a bur shuq layn 
+aburshuqle a bur shuq le 
+aburshuqlee a bur shuq lee 
+abuuddocan a buud do can 
+abuuddoocan a buud doo can 
+abuudiiq a buu diiq 
+abuullan a buul lan 
+abuumaqas a buu ma qas 
+abuur a buur 
+abuuran a buu ran 
+abuurcas a buur cas 
+abuure a buu re 
+abuurid a buu rid 
+abuuris a buu ris 
+abuuritaan a buu ri taan 
+abuurmid a buur mid 
+abuurnaan a buur naan 
+abuurnaansho a buur naan sho 
+abuutufaax a buu tu faax 
+abwaan ab waan 
+abwaanad ab waa nad 
+abwaannimo ab waan ni mo 
+abxad ab xad 
+abyamid ab ya mid 
+abyan ab yan 
+abyanaha ab ya na ha 
+abyane ab ya ne 
+abyin ab yin 
+abyineed ab yi need 
+abyin-jeexeed ab yin jee xeed 
+abyood ab yood 
+abyoone ab yoo ne 
 acuudu-billaahi a c uu d u b i l l aa h i 
 acuudu-billaysad a c uu d u b i l l a y s a d 
 acuudu-billaysasho a c uu d u b i l l a y s a sh o 
