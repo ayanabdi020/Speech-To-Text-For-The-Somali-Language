@@ -1,0 +1,13 @@
+matplotlib==3.5.2
+numpy==1.22.4
+pandas==1.4.2
+scikit_learn==1.1.1
+scipy
+tensorflow
+seaborn==0.11.2
+plotly==5.8.2
+streamlit
+librosa
+mlflow
+jupyter==1.0.0
+python_speech_features

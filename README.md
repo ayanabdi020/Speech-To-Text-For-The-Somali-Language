@@ -7,6 +7,29 @@
 
 # Speech To Text For The Somali Language 
 
+## Introduction
+Although the Somali language has been spoken for centuries, there has been little research on developing speech-to-text models for this language. This paper proposes a machine learning model for creating speech-to-text for the Somali language. We train our model with a data set of Somali audio recordings and corresponding transcriptions.
+
+## Model
+These step might be used to create our model. Check the *model* folder for more details.
+- Preparing the Data
+- Building the Model
+- Training the Model
+- Evaluating the Model
+- Improving the Model
+
+## 👀 Installation & Dependencies
+### ⌛ Download train/test datasets
+placeholder
+
+### Install requirements
+```python
+   $ pip install -r requirements.txt"
+```
+### 🚂 Train or use pretrained models
+placeholder
+
+
 ## Table of Contents
 - [Contributions](#People-Who-Have-Contributed-To-This-Project)
 - [Tasks](#What-Task-Must-Be-Done) 
