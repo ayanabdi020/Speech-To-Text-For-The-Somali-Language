@@ -6,6 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+# if we end up not publishing dataset to the public - just git ignore 
+# data/
+# checkpoints/
+# *.wav
+# *.tsv
+# *.tsvm
+# *.csv
+# *.tar.xz
+*metadata.csv
+.vscode
+
 # Distribution / packaging
 .Python
 build/
