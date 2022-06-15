@@ -26,7 +26,7 @@ placeholder
 ```python
    $ pip install -r requirements.txt"
 ```
-### 🚂 Train or used pretrained models
+### 🚂 Train or use pretrained models
 placeholder
 
 
