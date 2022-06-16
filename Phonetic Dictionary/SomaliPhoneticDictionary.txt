@@ -420,108 +420,108 @@ abyineed ab yi need
 abyin-jeexeed ab yin jee xeed 
 abyood ab yood 
 abyoone ab yoo ne 
-acuudu-billaahi a c uu d u b i l l aa h i 
-acuudu-billaysad a c uu d u b i l l a y s a d 
-acuudu-billaysasho a c uu d u b i l l a y s a sh o 
-acuudu-billeyso a c uu d u b i l l e y s o 
-acyuun a c y uu n 
-adaa a d aa 
-adaadax a d aa d a x 
-adaadi a d aa d i 
-adaadixid a d aa d i x i d 
-adaadumasho a d aa d u m a sh o 
-adaadumid a d aa d u m i d 
-adaadumo a d aa d u m o 
-adaadun a d aa d u n 
-adaahi a d aa h i 
-adaan a d aa n 
-adaarbiciid a d aa r b i c ii d 
-adab a d a b 
-adable a d a b l e 
-adaddaah a d a d d aa h 
-adaddaahid a d a d d aa h i d 
-adag a d a g 
-adamaddoon a d a m a d d oo n 
-adame a d a m e 
-adami a d a m i 
-adamiyeysi a d a m i y e y s i 
-adamiyeyso a d a m i y e y s o 
-adan a d a n 
-adar a d a r 
-adarbiciid a d a r b i c ii d 
-adayg a d a y g 
-addeec a d d ee c 
-addeecid a d d ee c i d 
-addeecis a d d ee c i s 
-addeecsan a d d ee c s a n 
-addeecsanaan a d d ee c s a n aa n 
-addeecsanaansho a d d ee c s a n aa n sh o 
-addimaad a d d i m aa d 
-addimid a d d i m i d 
-addin a d d i n 
-addinmaal a d d i n m aa l 
-addoomoobid a d d oo m oo b i d 
-addoomow a d d oo m o w 
-addoon a d d oo n 
-addoonnimo a d d oo n n i m o 
-addoonsad a d d oo n s a d 
-addoonsasho a d d oo n s a sh o 
-addoonsi a d d oo n s i 
-addoonso a d d oo n s o 
-adduun a d d uu n 
-adduunweyne a d d uu n w e y n e 
-adduunyo a d d uu n y o 
-adeeg a d ee g 
-adeegasho a d ee g a sh o 
-adeege a d ee g e 
-adeegid a d ee g i d 
-adeego a d ee g o 
-adeegsad a d ee g s a d 
-adeegsasho a d ee g s a sh o 
-adeegsi a d ee g s i 
-adeegso a d ee g s o 
-adeegto a d ee g t o 
-adeer a d ee r 
-adeernimo a d ee r n i m o 
-adeeryo a d ee r y o 
-adhaxle a dh a x l e 
-adi a d i 
-adiga a d i g a 
-adinayn a d i n a y n 
-adiyo a d i y o 
-adkaan a d k aa n 
-adkaansho a d k aa n sh o 
-adkayn a d k a y n 
-adkaysad a d k a y s a d 
-adkaysan a d k a y s a n 
-adkaysasho a d k a y s a sh o 
-adkaysi a d k a y s i 
-adkaysiinyo a d k a y s ii n y o 
-adkaysin a d k a y s i n 
-adkayso a d k a y s o 
-adke a d k e 
-adkee a d k ee 
-adkow a d k o w 
-adna a d n a 
-adoo a d oo 
-adooga a d oo g a 
-adse a d s e 
-aduu a d uu 
-adwaar a d w aa r 
-adyad a d y a d 
-adyadee a d y a d ee 
-adyadeyn a d y a d e y n 
-af a f 
-afaaf a f aa f 
-afacaayil a f a c aa y i l 
-afaggaal a f a g g aa l 
-afar a f a r 
-afaraad a f a r aa d 
-afardhegood a f a r dh e g oo d 
-afaree a f a r ee 
-afareyn a f a r e y n 
-afareys a f a r e y s 
-afareysad a f a r e y s a d 
+acuudu-billaahi a cuu du bi ll aa hi 
+acuudu-billaysad a cuu du bi ll ay sad 
+acuudu-billaysasho a cuu du bi ll ay sa sho 
+acuudu-billeyso a cuu du bi ll ey so 
+acyuun ac yuun 
+adaa a daa 
+adaadax a daa dax 
+adaadi a daa di 
+adaadixid a daa di xid 
+adaadumasho a daa du ma sho 
+adaadumid a daa du mid 
+adaadumo a daa du mo 
+adaadun a daa dun 
+adaahi a daa hi 
+adaan a daan 
+adaarbiciid a daar bi ciid 
+adab a dab 
+adable a dab le 
+adaddaah a dad daah 
+adaddaahid a dad daa hid 
+adag a dag 
+adamaddoon a da ma ddoon 
+adame a da me 
+adami a da mi 
+adamiyeysi a da mi yey si 
+adamiyeyso a da mi yey so 
+adan a dan 
+adar a dar 
+adarbiciid a dar bi ciid 
+adayg a day g 
+addeec ad deec 
+addeecid ad dee cid 
+addeecis ad dee cis 
+addeecsan ad deec san 
+addeecsanaan ad deec sa naan 
+addeecsanaansho ad deec sa naan sho 
+addimaad ad di maad 
+addimid ad di mid 
+addin ad din 
+addinmaal ad din maal 
+addoomoobid ad doo moo bid 
+addoomow ad doo mow 
+addoon ad doon 
+addoonnimo ad doon ni mo 
+addoonsad ad doon sad 
+addoonsasho ad doon sa sho 
+addoonsi ad doon si 
+addoonso ad doon so 
+adduun ad duun 
+adduunweyne ad duun wey ne 
+adduunyo ad duun yo 
+adeeg ad eeg 
+adeegasho ad ee ga sho 
+adeege ad eeg e 
+adeegid ad eeg id 
+adeego ad eeg o 
+adeegsad ad eeg sad 
+adeegsasho ad eeg sa sho 
+adeegsi ad eeg si 
+adeegso ad eeg so 
+adeegto ad eeg to 
+adeer a deer 
+adeernimo a deer ni mo 
+adeeryo a deer yo 
+adhaxle a dhax le 
+adi ad i 
+adiga adi ga 
+adinayn adi nayn 
+adiyo adi yo 
+adkaan ad kaan 
+adkaansho ad kaan sho 
+adkayn ad kay n 
+adkaysad ad kay sad 
+adkaysan ad kay san 
+adkaysasho ad kay sa sho 
+adkaysi ad kay si 
+adkaysiinyo ad kay siin yo 
+adkaysin ad kay sin 
+adkayso ad kay so 
+adke ad ke 
+adkee ad kee 
+adkow ad kow 
+adna ad na 
+adoo ad oo 
+adooga ad oo ga 
+adse ad se 
+aduu ad uu 
+adwaar ad waar 
+adyad ad yad 
+adyadee ad ya dee 
+adyadeyn ad yad eyn 
+af af 
+afaaf af aaf 
+afacaayil a fa caa yil 
+afaggaal a fag gaal 
+afar a far 
+afaraad a far aad 
+afardhegood a far dheg ood 
+afaree a fa ree 
+afareyn a fa reyn 
+afareys a fa reys 
+afareysad a fa reys ad 
 afareysasho a f a r e y s a sh o 
 afareysi a f a r e y s i 
 afarfaallow a f a r f aa l l o w 
