@@ -522,107 +522,107 @@ afaree a fa ree
 afareyn a fa reyn 
 afareys a fa reys 
 afareysad a fa reys ad 
-afareysasho a f a r e y s a sh o 
-afareysi a f a r e y s i 
-afarfaallow a f a r f aa l l o w 
-afarfoolle a f a r f oo l l e 
-afargees a f a r g ee s 
-afariyotobnaad a f a r i y o t o b n aa d 
-afar-jiho a f a r j i h o 
-afar-madaxle a f a r m a d a x l e 
-afarqaad a f a r q aa d 
-afarqaadid a f a r q aa d i d 
-afarqaadlays a f a r q aa d l a y s 
-afarqaadle a f a r q aa d l e 
-afarqaadleyn a f a r q aa d l e y n 
-afarran a f a r r a n 
-afarranaan a f a r r a n aa n 
-afarranaansho a f a r r a n aa n sh o 
-afarrey a f a r r e y 
-afarsuulle a f a r s uu l l e 
-afartamaad a f a r t a m aa d 
-afartambax a f a r t a m b a x 
-afartambixi a f a r t a m b i x i 
-afartambixid a f a r t a m b i x i d 
-afartambixin a f a r t a m b i x i n 
-afartameeye a f a r t a m ee y e 
-afartameeyo a f a r t a m ee y o 
-afartan a f a r t a n 
-afartanaad a f a r t a n aa d 
-afartanbax a f a r t a n b a x 
-afartanbixi a f a r t a n b i x i 
-afartanbixid a f a r t a n b i x i d 
-afartanbixin a f a r t a n b i x i n 
-afartaneeye a f a r t a n ee y e 
-afayn a f a y n 
-afays a f a y s 
-afaysan a f a y s a n 
-afaysasho a f a y s a sh o 
-afaysmid a f a y s m i d 
-afaysnaan a f a y s n aa n 
-afaysnaansho a f a y s n aa n sh o 
-afayso a f a y s o 
-afbadan a f b a d a n 
-afbadnaan a f b a d n aa n 
-afbadnaansho a f b a d n aa n sh o 
-afbar a f b a r 
-afbarad a f b a r a d 
-afbarasho a f b a r a sh o 
-afbarid a f b a r i d 
-afbaro a f b a r o 
-afbax a f b a x 
-afbeel a f b ee l 
-afbeelid a f b ee l i d 
-afbilaabasho a f b i l aa b a sh o 
-afbilaabo a f b i l aa b o 
-afbilaw a f b i l a w 
-afbixid a f b i x i d 
-afbuur a f b uu r 
-afbuurid a f b uu r i d 
-afcaal a f c aa l 
-afcaan a f c aa n 
-afcadde a f c a d d e 
-afceli a f c e l i 
-afcelin a f c e l i n 
-afcelis a f c e l i s 
-afceliso a f c e l i s o 
-afceliye a f c e l i y e 
-afcuug a f c uu g 
-afdabayl a f d a b a y l 
-afdaran a f d a r a n 
-afdarnaan a f d a r n aa n 
-afdarnaansho a f d a r n aa n sh o 
-afdarraan a f d a r r aa n 
-afdarraansho a f d a r r aa n sh o 
-afdarro a f d a r r o 
-afdhaaf a f dh aa f 
-afdhaafid a f dh aa f i d 
-afdhabaandhab a f dh a b aa n dh a b 
-afdhabaandhabid a f dh a b aa n dh a b i d 
-afdhabaandhaw a f dh a b aa n dh a w 
-afdhalow a f dh a l o w 
-afdheere a f dh ee r e 
-afdhuub a f dh uu b 
-afdhuubyaalayn a f dh uu b y aa l a y n 
-afdhuubyaale a f dh uu b y aa l e 
-afdhuubyaalee a f dh uu b y aa l ee 
-afdoolin a f d oo l i n 
-afduub a f d uu b 
-afduuban a f d uu b a n 
-afduube a f d uu b e 
-afduubid a f d uu b i d 
-afduubnaan a f d uu b n aa n 
-afduubnaansho a f d uu b n aa n sh o 
-afee a f ee 
-afeef a f ee f 
-afeefad a f ee f a d 
-afeefasho a f ee f a sh o 
-afeefo a f ee f o 
-afeeftamid a f ee f t a m i d 
-afeeftan a f ee f t a n 
-affur a f f u r 
-affuran a f f u r a n 
-affuri a f f u r i 
+afareysasho a fa rey sa sho 
+afareysi a fa rey si 
+afarfaallow a far faal low 
+afarfoolle a far fool le 
+afargees a far gees 
+afariyotobnaad a fa ri yo tob naad 
+afar-jiho a far ji ho 
+afar-madaxle a far ma dax le 
+afarqaad a far qaad 
+afarqaadid a far qaa did 
+afarqaadlays a far qaad lays 
+afarqaadle a far qaad le 
+afarqaadleyn a far qaad leyn 
+afarran a far ran 
+afarranaan a far ra naan 
+afarranaansho a far ra naan sho 
+afarrey a far rey 
+afarsuulle a far suul le 
+afartamaad a far ta maad 
+afartambax a far tam bax 
+afartambixi a far tam bi xi 
+afartambixid a far tam bi xid 
+afartambixin a far tam bi xin 
+afartameeye a far ta mee ye 
+afartameeyo a far ta mee yo 
+afartan a far tan 
+afartanaad a far ta naad 
+afartanbax a far tan bax 
+afartanbixi a far tan bi xi 
+afartanbixid a far tan bi xid 
+afartanbixin a far tan bi xin 
+afartaneeye a far ta nee ye 
+afayn a fayn 
+afays a fays 
+afaysan a fay san 
+afaysasho a fay sa sho 
+afaysmid a fays mid 
+afaysnaan a fays naan 
+afaysnaansho a fays naan sho 
+afayso a fay so 
+afbadan af ba dan 
+afbadnaan af bad naan 
+afbadnaansho af bad naan sho 
+afbar af bar 
+afbarad af ba rad 
+afbarasho af ba ra sho 
+afbarid af ba rid 
+afbaro af ba ro 
+afbax af bax 
+afbeel af beel 
+afbeelid af bee lid 
+afbilaabasho af bi laa ba sho 
+afbilaabo af bi laa bo 
+afbilaw af bi law 
+afbixid af bi xid 
+afbuur af buur 
+afbuurid af buu rid 
+afcaal af caal 
+afcaan af caan 
+afcadde af cad de 
+afceli af ce li 
+afcelin af ce lin 
+afcelis af ce lis 
+afceliso af ce li so 
+afceliye af ce li ye 
+afcuug af cuug 
+afdabayl af da bayl 
+afdaran af da ran 
+afdarnaan af dar naan 
+afdarnaansho af dar naan sho 
+afdarraan af dar raan 
+afdarraansho af dar raan sho 
+afdarro af dar ro 
+afdhaaf af dhaaf 
+afdhaafid af dhaa fid 
+afdhabaandhab af dha baan dhab 
+afdhabaandhabid af dha baan dha bid 
+afdhabaandhaw af dha baan dhaw 
+afdhalow af dha low 
+afdheere af dhee re 
+afdhuub af dhuub 
+afdhuubyaalayn af dhuub yaa layn 
+afdhuubyaale af dhuub yaa le 
+afdhuubyaalee af dhuub yaa lee 
+afdoolin af doo lin 
+afduub af duub 
+afduuban af duu ban 
+afduube af duu be 
+afduubid af duu bid 
+afduubnaan af duub naan 
+afduubnaansho af duub naan sho 
+afee a fee 
+afeef a feef 
+afeefad a fee fad 
+afeefasho a fee fa sho 
+afeefo a fee fo 
+afeeftamid a feef ta mid 
+afeeftan a feef tan 
+affur af fur 
+affuran af fu ran 
+affuri af fu ri 
 affurid a f f u r i d 
 affurin a f f u r i n 
 affurnaan a f f u r n aa n 
