@@ -27,28 +27,7 @@ placeholder
    $ pip install -r requirements.txt"
 ```
 ### 🚂 Train or use pretrained models
-placeholder
-
-
-## Table of Contents
-- [Contributions](#People-Who-Have-Contributed-To-This-Project)
-- [Tasks](#What-Task-Must-Be-Done) 
-- [Time Line](#Project-Time-Line)
-
-## People Who Have Contributed To This Project
-- Abdulnaser Sheikh 
-- - Computer Science
-- Ayan
-- - Health Science
-- Hafsa
-- - Software Engineer 
-
-## What Task Must Be Done 
-- [ ] Develop Audio For Most Common Somali Words
-- [ ] Building a phonetic dictionary
-- [x] Collect a set of transcribed recordings for your language - interviews, audiobooks
-- [ ] Building a language model
-
+placeholder  
  
  ## Project Time-Line
  1. May 2022
