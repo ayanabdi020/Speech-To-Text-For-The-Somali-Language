@@ -623,111 +623,111 @@ afeeftan a feef tan
 affur af fur 
 affuran af fu ran 
 affuri af fu ri 
-affurid a f f u r i d 
-affurin a f f u r i n 
-affurnaan a f f u r n aa n 
-affursii a f f u r s ii 
-affursiin a f f u r s ii n 
-afgammuur a f g a m m uu r 
-afgammuuran a f g a m m uu r a n 
-afgammuurid a f g a m m uu r i d 
-afgammuurmid a f g a m m uu r m i d 
-afgammuurnaan a f g a m m uu r n aa n 
-afgammuux a f g a m m uu x 
-afgammuuxan a f g a m m uu x a n 
-afgammuuxmid a f g a m m uu x m i d 
-afgammuuxnaan a f g a m m uu x n aa n 
-afgammuuxnaansho a f g a m m uu x n aa n sh o 
-afgamuuran a f g a m uu r a n 
-afgamuurmid a f g a m uu r m i d 
-afgamuurnaan a f g a m uu r n aa n 
-afgamuurnaansho a f g a m uu r n aa n sh o 
-afgamuuxan a f g a m uu x a n 
-afgamuuxmid a f g a m uu x m i d 
-afgamuuxnaan a f g a m uu x n aa n 
-afgamuuxnaansho a f g a m uu x n aa n sh o 
-afgarad a f g a r a d 
-afgarasho a f g a r a sh o 
-afgaro a f g a r o 
-afgarooc a f g a r oo c 
-afgaroocnimo a f g a r oo c n i m o 
-afgembi a f g e m b i 
-afgembin a f g e m b i n 
-afgembiyid a f g e m b i y i d 
-afgobaadsad a f g o b aa d s a d 
-afgobaadsasho a f g o b aa d s a sh o 
-afgobaadsi a f g o b aa d s i 
-afgobaadso a f g o b aa d s o 
-afgorofow a f g o r o f o w 
-afgoys a f g o y s 
-afguri a f g u r i 
-afhaye a f h a y e 
-afhayeen a f h a y ee n 
-afjaaq a f j aa q 
-afjaaqid a f j aa q i d 
-afjig a f j i g 
-afjigid a f j i g i d 
-afjuxuunsad a f j u x uu n s a d 
-afjuxuunsasho a f j u x uu n s a sh o 
-afjuxuunsi a f j u x uu n s i 
-afjuxuunso a f j u x uu n s o 
-afkaar a f k aa r 
-afkalahayn a f k a l a h a y n 
-afkalahays a f k a l a h a y s 
-afkalaqaad a f k a l a q aa d 
-afkalaqaadid a f k a l a q aa d i d 
-afkatoob a f k a t oo b 
-afkulleeble a f k u l l ee b l e 
-afkullibaaxle a f k u l l i b aa x l e 
-afkuxaarre a f k u x aa r r e 
-afkuxuuble a f k u x uu b l e 
-afla' a f l a ' 
-afla'aan a f l a ' aa n 
-afla'aansho a f l a ' aa n sh o 
-aflaam a f l aa m 
-aflaggaaddee a f l a g g aa d d ee 
-aflaggaaddeyn a f l a g g aa d d e y n 
-aflaggaaddo a f l a g g aa d d o 
-aflaw a f l a w 
-aflax a f l a x 
-aflaxaad a f l a x aa d 
-aflixi a f l i x i 
-aflixid a f l i x i d 
-aflixin a f l i x i n 
-aflixis a f l i x i s 
-afmaal a f m aa l 
-afmaalnimo a f m aa l n i m o 
-afmaldah a f m a l d a h 
-afmaldahid a f m a l d a h i d 
-afmeer a f m ee r 
-afmeeran a f m ee r a n 
-afmeerid a f m ee r i d 
-afmeernaan a f m ee r n aa n 
-afmeernaansho a f m ee r n aa n sh o 
-afmiinshaar a f m ii n sh aa r 
-afmiinshaarayn a f m ii n sh aa r a y n 
-afmiinshaaree a f m ii n sh aa r ee 
-afmiinshaarnimo a f m ii n sh aa r n i m o 
-afmiishaar a f m ii sh aa r 
-afmiishaarayn a f m ii sh aa r a y n 
-afmiishaaree a f m ii sh aa r ee 
-afmiishaarnimo a f m ii sh aa r n i m o 
-afnaq a f n a q 
-afnaqid a f n a q i d 
-afo a f o 
-afqab a f q a b 
-afqabid a f q a b i d 
-afqays a f q a y s 
-afqoys a f q o y s 
-afraad a f r aa d 
-afrid a f r i d 
-afrog a f r o g 
-afrogan a f r o g a n 
-afrogid a f r o g i d 
-afrognaan a f r o g n aa n 
-afrognaansho a f r o g n aa n sh o 
-afruug a f r uu g 
-afruugid a f r uu g i d 
+affurid af fu rid 
+affurin af fu rin 
+affurnaan af fur naan 
+affursii af fur sii 
+affursiin af fur siin 
+afgammuur af ga mmuur 
+afgammuuran af ga mmuu ran 
+afgammuurid af ga mmuu rid 
+afgammuurmid af ga mmuur mid 
+afgammuurnaan af ga mmuur naan 
+afgammuux af ga mmuux 
+afgammuuxan af ga mmuu xan 
+afgammuuxmid af ga mmuux mid 
+afgammuuxnaan af ga mmuux naan 
+afgammuuxnaansho af ga mmuux naan sho 
+afgamuuran af ga muu ran 
+afgamuurmid af ga muur mid 
+afgamuurnaan af ga muur naan 
+afgamuurnaansho af ga muur naan sho 
+afgamuuxan af ga muu xan 
+afgamuuxmid af ga muux mid 
+afgamuuxnaan af ga muux naan 
+afgamuuxnaansho af ga muux naan sho 
+afgarad af ga rad 
+afgarasho af ga ra sho 
+afgaro af ga ro 
+afgarooc af ga rooc 
+afgaroocnimo af ga rooc ni mo 
+afgembi af gem bi 
+afgembin af gem bin 
+afgembiyid af gem bi yid 
+afgobaadsad af go baad sad 
+afgobaadsasho af go baad sa sho 
+afgobaadsi af go baad si 
+afgobaadso af go baad so 
+afgorofow af go ro fow 
+afgoys af goy s 
+afguri af gu ri 
+afhaye af ha ye 
+afhayeen af ha yeen 
+afjaaq af jaaq 
+afjaaqid af jaa qid 
+afjig af jig 
+afjigid af ji gid 
+afjuxuunsad af ju xuun sad 
+afjuxuunsasho af ju xuun sa sho 
+afjuxuunsi af ju xuun si 
+afjuxuunso af ju xuun so 
+afkaar af kaar 
+afkalahayn af ka la ha yn 
+afkalahays af ka la ha ys 
+afkalaqaad af ka la qaad 
+afkalaqaadid af ka la qaa did 
+afkatoob af ka toob 
+afkulleeble af ku lle eb le 
+afkullibaaxle af ku lli ba ax le 
+afkuxaarre af ku xaar re 
+afkuxuuble af ku xuub le 
+afla' af la' 
+afla'aan af la' aan 
+afla'aansho af la' aan sho 
+aflaam af laam 
+aflaggaaddee af lag gaad dee 
+aflaggaaddeyn af lag gaad de yn 
+aflaggaaddo af lag gaad do 
+aflaw af law 
+aflax af lax 
+aflaxaad af la xaad 
+aflixi af li xi 
+aflixid af li xid 
+aflixin af li xin 
+aflixis af li xis 
+afmaal af maal 
+afmaalnimo af maal ni mo 
+afmaldah af mal dah 
+afmaldahid af mal da hid 
+afmeer af meer 
+afmeeran af mee ran 
+afmeerid af mee rid 
+afmeernaan af meer naan 
+afmeernaansho af meer naan sho 
+afmiinshaar af miin shaar 
+afmiinshaarayn af miin shaa ra yn 
+afmiinshaaree af miin shaa ree 
+afmiinshaarnimo af miin shaar ni mo 
+afmiishaar af mii shaar 
+afmiishaarayn af mii shaa ra yn 
+afmiishaaree af mii shaa ree 
+afmiishaarnimo af mii shaar ni mo 
+afnaq af naq 
+afnaqid af na qid 
+afo af o 
+afqab af qab 
+afqabid af qa bid 
+afqays af qay s 
+afqoys af qoy s 
+afraad af raad 
+afrid af rid 
+afrog af rog 
+afrogan af ro gan 
+afrogid af ro gid 
+afrognaan af rog naan 
+afrognaansho af rog naan sho 
+afruug af ruug 
+afruugid af ruu gid 
 afruujin a f r uu j i n 
 afsaar a f s aa r 
 aftahan a f t a h a n 
